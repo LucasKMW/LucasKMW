@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, My Coding World! XD
 
 <!--
 **LucasKMW/LucasKMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
